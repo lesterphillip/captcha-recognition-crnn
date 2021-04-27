@@ -6,7 +6,7 @@ The Kaggle Dataset used for this can be found [here.](https://www.kaggle.com/aad
 Any other dataset should also work with this model and retrained, assuming that all of the samples have equal amounts of captcha characters.
 
 ## References
-I also used Abhishek's tutorial on captcha recognition and used it as a starter for this notebook. You can find his tutorial [here.](https://www.youtube.com/watch?v=IcLEJB2pY2Y) I detail some of my changes in the notebook such as:
+I also used Abhishek's tutorial on captcha recognition and used it as a starter for this notebook. You can find his tutorial [here.](https://www.youtube.com/watch?v=IcLEJB2pY2Y) I've detailed some of my changes in the notebook such as:
 - refactoring the code as a notebook
 - using a different dataset
 - adding early stopping
